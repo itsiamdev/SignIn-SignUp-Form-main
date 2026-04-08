@@ -18,6 +18,6 @@ Perfect for developers looking to add a polished authentication system to their 
 
 Get started by cloning the repository and opening `index.html` in your browser! 🌐
 
-Or check out the live demo here: https://iam269.github.io/SignIn-SignUp-Form-main/
+Or check out the live demo here: https://itsiamdev.github.io/SignIn-SignUp-Form-main/
 
 Responsive Login & Registration Form Using HTML & CSS & JS .Sliding Sign In & Sign Up Form
